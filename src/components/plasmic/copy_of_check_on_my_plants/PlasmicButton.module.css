@@ -1,0 +1,376 @@
+.root2 {
+  flex-direction: row;
+  display: flex;
+  position: relative;
+  background: #adc178;
+  transition-property: background;
+  transition-duration: 0.1s;
+  filter: none;
+  backdrop-filter: none;
+  cursor: pointer;
+  height: auto;
+  border-radius: 6px;
+  padding: 12px 20px;
+  border-width: 0px;
+}
+.root2 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-left: calc(0px - 8px);
+  width: calc(100% + 8px);
+}
+.root2 > :global(.__wab_flex-container) > *,
+.root2 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.root2 > :global(.__wab_flex-container) > picture > img,
+.root2 > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-left: 8px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .root2 {
+    cursor: default;
+  }
+}
+.root2showStartIcon {
+  padding-left: 16px;
+}
+.root2color_green {
+  background: #30a46c;
+}
+.root2color_yellow {
+  background: #f5d90a;
+}
+.root2color_red {
+  background: #e54d2e;
+}
+.root2color_sand {
+  background: #717069;
+}
+.root2color_white {
+  background: #ffffff;
+}
+.root2color_softBlue {
+  background: #edf6ff;
+}
+.root2color_softGreen {
+  background: #e9f9ee;
+}
+.root2color_softYellow {
+  background: #fffbd1;
+}
+.root2color_softRed {
+  background: #fff0ee;
+}
+.root2color_softSand {
+  background: #eeeeec;
+}
+.root2showEndIcon {
+  padding-right: 16px;
+}
+.root2color_clear {
+  background: #ffffff00;
+}
+.root2color_link {
+  background: #ffffff00;
+}
+.root2waterButton {
+  background: #788c40;
+}
+.root2isDisabled {
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+.root2shape_rounded {
+  padding-left: 20px;
+  padding-right: 20px;
+  min-width: 100px;
+  border-radius: 999px;
+}
+.root2shape_round {
+  border-radius: 50%;
+  padding: 12px;
+}
+.root2shape_sharp {
+  border-radius: 0px;
+}
+.root2size_compact {
+  padding: 6px 16px;
+}
+.root2size_minimal {
+  padding: 0px;
+}
+.root2color_blue {
+  background: #0091ff;
+}
+.root2size_compact_shape_round {
+  padding: 6px;
+}
+.root2showStartIcon_shape_rounded {
+  padding-left: 16px;
+}
+.root2shape_rounded_showEndIcon {
+  padding-right: 16px;
+}
+.root2:hover {
+  background: #adc178;
+}
+.root2:focus-within {
+  box-shadow: none;
+  outline: none;
+}
+.root2___focusVisibleWithin {
+  box-shadow: none;
+  outline: none;
+}
+.root2:active {
+  background: #788c40;
+}
+.root2color_green:active {
+  background: #4cc38a;
+}
+.root2color_yellow:active {
+  background: #f0c000;
+}
+.root2color_red:active {
+  background: #f16a50;
+}
+.root2color_sand:active {
+  background: #a1a09a;
+}
+.root2color_white:active {
+  background: #f0c000;
+}
+.root2color_softBlue:active {
+  background: #cee7fe;
+}
+.root2color_softGreen:active {
+  background: #ccebd7;
+}
+.root2color_softYellow:active {
+  background: #fef2a4;
+}
+.root2color_softRed:active {
+  background: #fdd8d3;
+}
+.root2color_softSand:active {
+  background: #e3e3e0;
+}
+.root2color_clear:active {
+  background: #e3e3e0;
+}
+.root2color_link:active {
+  background: #ffffff00;
+}
+.root2color_blue:active {
+  background: #52a9ff;
+}
+.startIconContainer {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.startIconContainershowStartIcon {
+  display: flex;
+}
+.slotTargetStartIcon {
+  color: #ededec;
+}
+.slotTargetStartIconcolor_yellow {
+  color: #35290f;
+}
+.slotTargetStartIconcolor_white {
+  color: #35290f;
+}
+.slotTargetStartIconcolor_softBlue {
+  color: #006adc;
+}
+.slotTargetStartIconcolor_softGreen {
+  color: #18794e;
+}
+.slotTargetStartIconcolor_softYellow {
+  color: #946800;
+}
+.slotTargetStartIconcolor_softRed {
+  color: #ca3214;
+}
+.slotTargetStartIconcolor_softSand {
+  color: #706f6c;
+}
+.slotTargetStartIconcolor_clear {
+  color: #1b1b18;
+}
+.slotTargetStartIconcolor_link {
+  color: #0091ff;
+}
+.root2color_link:active .slotTargetStartIconcolor_link {
+  color: #006adc;
+}
+.svg__d7YYy {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+  flex-shrink: 0;
+}
+.contentContainer {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  pointer-events: none;
+}
+.root2 .contentContainer___focusVisibleWithin {
+  outline: none;
+}
+.slotTargetChildren {
+  color: var(--token-LXMrYF0YunK1LI);
+  font-weight: 500;
+  white-space: pre;
+}
+.slotTargetChildrencolor_green {
+  color: #ffffff;
+}
+.slotTargetChildrencolor_yellow {
+  color: #35290f;
+}
+.slotTargetChildrencolor_red {
+  color: #ffffff;
+}
+.slotTargetChildrencolor_sand {
+  color: #ffffff;
+}
+.slotTargetChildrencolor_white {
+  color: #1b1b18;
+}
+.slotTargetChildrencolor_softBlue {
+  color: #006adc;
+}
+.slotTargetChildrencolor_softGreen {
+  color: #18794e;
+}
+.slotTargetChildrencolor_softYellow {
+  color: #946800;
+}
+.slotTargetChildrencolor_softRed {
+  color: #ca3214;
+}
+.slotTargetChildrencolor_softSand {
+  color: #1b1b18;
+}
+.slotTargetChildrencolor_clear {
+  color: #1b1b18;
+}
+.slotTargetChildrencolor_link {
+  color: #0091ff;
+}
+.slotTargetChildrencolor_blue {
+  color: #ffffff;
+}
+.root2:focus-within .slotTargetChildren > *,
+.root2:focus-within .slotTargetChildren > .__wab_slot > *,
+.root2:focus-within .slotTargetChildren > .__wab_slot > .__wab_slot > *,
+.root2:focus-within
+  .slotTargetChildren
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_slot
+  > *,
+.root2:focus-within .slotTargetChildren > picture > img,
+.root2:focus-within .slotTargetChildren > .__wab_slot > picture > img,
+.root2:focus-within
+  .slotTargetChildren
+  > .__wab_slot
+  > .__wab_slot
+  > picture
+  > img,
+.root2:focus-within
+  .slotTargetChildren
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_slot
+  > picture
+  > img {
+  outline: none;
+}
+.root2 .slotTargetChildren___focusVisibleWithin > *,
+.root2 .slotTargetChildren___focusVisibleWithin > .__wab_slot > *,
+.root2 .slotTargetChildren___focusVisibleWithin > .__wab_slot > .__wab_slot > *,
+.root2
+  .slotTargetChildren___focusVisibleWithin
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_slot
+  > *,
+.root2 .slotTargetChildren___focusVisibleWithin > picture > img,
+.root2 .slotTargetChildren___focusVisibleWithin > .__wab_slot > picture > img,
+.root2
+  .slotTargetChildren___focusVisibleWithin
+  > .__wab_slot
+  > .__wab_slot
+  > picture
+  > img,
+.root2
+  .slotTargetChildren___focusVisibleWithin
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_slot
+  > picture
+  > img {
+  outline: none;
+}
+.root2color_link:active .slotTargetChildrencolor_link {
+  color: #006adc;
+}
+.endIconContainer {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.endIconContainershowEndIcon {
+  display: flex;
+}
+.slotTargetEndIcon {
+  color: #ededec;
+}
+.slotTargetEndIconcolor_yellow {
+  color: #35290f;
+}
+.slotTargetEndIconcolor_white {
+  color: #35290f;
+}
+.slotTargetEndIconcolor_softBlue {
+  color: #006adc;
+}
+.slotTargetEndIconcolor_softGreen {
+  color: #18794e;
+}
+.slotTargetEndIconcolor_softYellow {
+  color: #946800;
+}
+.slotTargetEndIconcolor_softRed {
+  color: #ca3214;
+}
+.slotTargetEndIconcolor_softSand {
+  color: #706f6c;
+}
+.slotTargetEndIconcolor_clear {
+  color: #1b1b18;
+}
+.slotTargetEndIconcolor_link {
+  color: #0091ff;
+}
+.root2color_link:active .slotTargetEndIconcolor_link {
+  color: #006adc;
+}
+.svg__kJh54 {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+  flex-shrink: 0;
+}

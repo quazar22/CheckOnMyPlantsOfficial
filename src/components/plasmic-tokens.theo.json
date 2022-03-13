@@ -1,0 +1,69 @@
+{
+  "props": [
+    {
+      "name": "Background",
+      "type": "color",
+      "value": "#6C584C",
+      "category": "color",
+      "meta": {
+        "projectId": "feB2VQPNZahnY5LzQYmkWq",
+        "id": "O56EqRgl9_HgwE"
+      }
+    },
+    {
+      "name": "Button",
+      "type": "color",
+      "value": "#ADC178",
+      "category": "color",
+      "meta": {
+        "projectId": "feB2VQPNZahnY5LzQYmkWq",
+        "id": "SlXBHtVToZ1JJa"
+      }
+    },
+    {
+      "name": "DarkButton",
+      "type": "color",
+      "value": "#788C40",
+      "category": "color",
+      "meta": {
+        "projectId": "feB2VQPNZahnY5LzQYmkWq",
+        "id": "YMdIwGEx465Vgc"
+      }
+    },
+    {
+      "name": "LightButton",
+      "type": "color",
+      "value": "#DDE5B6",
+      "category": "color",
+      "meta": {
+        "projectId": "feB2VQPNZahnY5LzQYmkWq",
+        "id": "6F3qxV_iZVatx1"
+      }
+    },
+    {
+      "name": "OffBackground",
+      "type": "color",
+      "value": "#A98467",
+      "category": "color",
+      "meta": {
+        "projectId": "feB2VQPNZahnY5LzQYmkWq",
+        "id": "whFSWXdm6PZi1x"
+      }
+    },
+    {
+      "name": "Text",
+      "type": "color",
+      "value": "#F0EAD2",
+      "category": "color",
+      "meta": {
+        "projectId": "feB2VQPNZahnY5LzQYmkWq",
+        "id": "LXMrYF0YunK1LI"
+      }
+    }
+  ],
+  "global": {
+    "meta": {
+      "source": "plasmic.app"
+    }
+  }
+}
